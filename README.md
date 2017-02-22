@@ -1,0 +1,1 @@
+# ms-jquery-resize
